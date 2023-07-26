@@ -3,7 +3,7 @@
     <x-app-layout>
         <!-- component -->
         <!-- This is an example component -->
-        <div class="mx-auto mt-6 max-w-2xl sm:px-6 md:grid md:max-w-7xl lg:grid-cols-3 lg:gap-x-8 md:px-8">
+        <div class="mx-auto my-16 max-w-2xl sm:px-6 md:grid md:max-w-7xl lg:grid-cols-3 lg:gap-x-8 md:px-8">
             
             <div class="group relative">
                 <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
