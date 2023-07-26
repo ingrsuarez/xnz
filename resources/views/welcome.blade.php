@@ -28,7 +28,7 @@
                         Inteligencia Artifical aplicada.
                   </a>
                 </h3>
-                <p class="text-base font-semibold text-gray-900">Detección de eventos por video analítica y predicción ciencia de datos.</p>
+                <p class="text-base font-semibold text-gray-900">Detección de eventos por video analítica y predicción con ciencia de datos.</p>
               
             </div>
             <div class="group relative">
@@ -52,7 +52,7 @@
             <div class="mx-auto max-w-7xl px-6 lg:px-8">
                 <div class="mx-auto max-w-2xl lg:text-center">
                     <h2 class="text-base font-semibold leading-7 text-indigo-600">Deploy faster</h2>
-                    <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Soluciones simples a problemas coplejos.</p>
+                    <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Soluciones simples a problemas complejos.</p>
                     <p class="mt-6 text-lg leading-8 text-gray-600">Mejor perfomance en diseño y desarrollo.</p>
             
                 CONTACTANOS:
